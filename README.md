@@ -1,0 +1,2 @@
+# synapse
+Synapse Storage Format
